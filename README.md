@@ -1,6 +1,5 @@
-- I’m Ishan Hegde
-- I’m interested in Data analysis/ML
-- I’m currently learning in HKUST
-- How to reach me: email: ishan.hegde@hotmail.com
+**Languages:** python, C++, fortran. 
+**OS:** Ubuntu, Debain 
+**Interested Topics:** NLP, Data engineering, HPC 
 
 
